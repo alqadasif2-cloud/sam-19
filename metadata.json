@@ -1,0 +1,6 @@
+{
+  "name": "Sami",
+  "description": "تطبيق سامي المتكامل لمتابعة رحلة التداول (150 محطة) والمحادثات الفورية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
